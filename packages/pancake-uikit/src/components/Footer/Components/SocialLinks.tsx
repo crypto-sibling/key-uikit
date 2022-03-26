@@ -25,7 +25,7 @@ const SocialLinks: React.FC<FlexProps> = ({ ...props }) => (
         );
       })}
     </Flex>
-    <Text color='text' mt='12px' fontSize='18px'>Copyright &copy;2020 KeySwap</Text>
+    <Text color='text' mt='12px' fontSize='18px'>Copyright &copy;2022 KeySwap</Text>
   </Flex>
 );
 
