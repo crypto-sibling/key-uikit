@@ -45,6 +45,7 @@ export { default as EarnFilledIcon } from "./Icons/EarnFilled";
 export { default as EarnFillIcon } from "./Icons/EarnFill";
 export { default as EarnIcon } from "./Icons/Earn";
 export { default as EllipsisIcon } from "./Icons/Ellipsis";
+export { default as EmailIcon } from "./Icons/Email";
 export { default as ErrorIcon } from "./Icons/Error";
 export { default as ExpandIcon } from "./Icons/Expand";
 export { default as FarmIcon } from "./Icons/Farm";
